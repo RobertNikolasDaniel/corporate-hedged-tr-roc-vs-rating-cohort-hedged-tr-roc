@@ -210,10 +210,3 @@ Independent Quantitative Research in:
 - Relative Value Trading
 - Institutional Funding Dynamics
 
-## Links
-
-GitHub: https://github.com/RobertNikolasDaniel
-
-Substack: https://robertdaniel.substack.com
-
-YouTube: https://www.youtube.com/@BondsAreHard
